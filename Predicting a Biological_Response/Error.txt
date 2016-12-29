@@ -1,0 +1,3 @@
+alpha=1e-05  iterate=20000  error: 0.247995007025   standart  error=0.276146027237
+alpha=0.0001  iterate=20000  error: 0.155827287349   standart  error=0.210138737116
+alpha=0.001  iterate=20000  error: 0.30222559735   standart  error=0.0966077781184
